@@ -1,0 +1,6 @@
+{
+  "name": "Jai Shree Krishna • Nostalgic Journey",
+  "description": "An immersive, nostalgic devotional experience celebrating the culture, memories, melodies, and timeless grace of Jai Shree Krishna.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
